@@ -26,8 +26,7 @@ Due to a more serious problem, the software has not been able to perform some fu
         error(e)
 ```
 # PythonTemplate
-python base1.py -h
-usage: base1.py [-h] [-l LOGFILE] [-c LOGCONFIG] [-d] [-v]
+usage: base.py [-h] [-l LOGFILE] [-c LOGCONFIG] [-d] [-v]
 
 optional arguments:
   -h, --help            show this help message and exit
