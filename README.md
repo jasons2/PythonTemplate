@@ -24,7 +24,7 @@ Due to a more serious problem, the software has not been able to perform some fu
         something
     except as e:
         error(e)
-
+```
 # PythonTemplate
 python base1.py -h
 usage: base1.py [-h] [-l LOGFILE] [-c LOGCONFIG] [-d] [-v]
@@ -37,3 +37,4 @@ optional arguments:
                         Logging Configuration File (default is logging.yaml)
   -d, --debug           Set Debug
   -v, --verbose         Set Logging to Verbose
+  ```
