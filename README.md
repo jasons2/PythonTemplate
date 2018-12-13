@@ -10,7 +10,7 @@ Confirmation that things are working as expected.
     
 DEBUG MESSAGES
 Detailed information, typically of interest only when diagnosing problems.
-    *debug("You should know about %s" % (somevariable))
+    -debug("You should know about %s" % (somevariable))
     
 WARNING MESSAGES
 An indication that something unexpected happened, or indicative of some problem in the 
